@@ -1,0 +1,128 @@
+{
+ "resnet18_imagenet|chb01": {
+  "auroc": 0.9792054976897172,
+  "auprc": 0.9228838524686866,
+  "sensitivity": 0.3584070796460177,
+  "specificity": 0.9991150442477876
+ },
+ "resnet18_scratch|chb01": {
+  "auroc": 0.9780346933980735,
+  "auprc": 0.9214749258473128,
+  "sensitivity": 0.27876106194690264,
+  "specificity": 1.0
+ },
+ "linear_probe|chb01": {
+  "auroc": 0.8564061398699976,
+  "auprc": 0.5912267451035393,
+  "sensitivity": 0.4336283185840708,
+  "specificity": 0.9513274336283186
+ },
+ "resnet18_imagenet|chb02": {
+  "auroc": 0.9616348140495868,
+  "auprc": 0.9194955311422958,
+  "sensitivity": 0.8409090909090909,
+  "specificity": 0.9659090909090909
+ },
+ "resnet18_scratch|chb02": {
+  "auroc": 0.9051394628099174,
+  "auprc": 0.7839987309681518,
+  "sensitivity": 0.7727272727272727,
+  "specificity": 0.9090909090909091
+ },
+ "linear_probe|chb02": {
+  "auroc": 0.8361311983471075,
+  "auprc": 0.6531462103566231,
+  "sensitivity": 0.7727272727272727,
+  "specificity": 0.7068181818181818
+ },
+ "resnet18_imagenet|chb03": {
+  "auroc": 0.719250164954284,
+  "auprc": 0.4732476332803607,
+  "sensitivity": 0.25728155339805825,
+  "specificity": 0.9844660194174757
+ },
+ "resnet18_scratch|chb03": {
+  "auroc": 0.6094188896220191,
+  "auprc": 0.3448843167699722,
+  "sensitivity": 0.1650485436893204,
+  "specificity": 0.9679611650485437
+ },
+ "linear_probe|chb03": {
+  "auroc": 0.6591761711754172,
+  "auprc": 0.3791279035348717,
+  "sensitivity": 0.3640776699029126,
+  "specificity": 0.8932038834951457
+ },
+ "resnet18_imagenet|chb05": {
+  "auroc": 0.9780576401821768,
+  "auprc": 0.9160376743500297,
+  "sensitivity": 0.9145907473309609,
+  "specificity": 0.926720947446336
+ },
+ "resnet18_scratch|chb05": {
+  "auroc": 0.8884535246067893,
+  "auprc": 0.7153892172522407,
+  "sensitivity": 0.7117437722419929,
+  "specificity": 0.8897113249444856
+ },
+ "linear_probe|chb05": {
+  "auroc": 0.8205915744499264,
+  "auprc": 0.6971817233531149,
+  "sensitivity": 0.7508896797153025,
+  "specificity": 0.7609178386380459
+ },
+ "resnet18_imagenet|chb08": {
+  "auroc": 0.8625149655669626,
+  "auprc": 0.7591766383910967,
+  "sensitivity": 0.5281385281385281,
+  "specificity": 0.9562923888470234
+ },
+ "resnet18_scratch|chb08": {
+  "auroc": 0.8818119835452164,
+  "auprc": 0.7506214362091446,
+  "sensitivity": 0.683982683982684,
+  "specificity": 0.8756593820648079
+ },
+ "linear_probe|chb08": {
+  "auroc": 0.6703399589609085,
+  "auprc": 0.4770723925499236,
+  "sensitivity": 0.3917748917748918,
+  "specificity": 0.8907309721175584
+ },
+ "resnet18_imagenet|chb10": {
+  "auroc": 0.9604530503563319,
+  "auprc": 0.8584522557686953,
+  "sensitivity": 0.9778761061946902,
+  "specificity": 0.7451327433628319
+ },
+ "resnet18_scratch|chb10": {
+  "auroc": 0.885562690892004,
+  "auprc": 0.7291185978694933,
+  "sensitivity": 0.9070796460176991,
+  "specificity": 0.6079646017699115
+ },
+ "linear_probe|chb10": {
+  "auroc": 0.7686506382645468,
+  "auprc": 0.5683386556909134,
+  "sensitivity": 0.8097345132743363,
+  "specificity": 0.5017699115044247
+ },
+ "resnet18_imagenet|chb20": {
+  "auroc": 0.644112100346476,
+  "auprc": 0.4562883594464798,
+  "sensitivity": 0.09271523178807947,
+  "specificity": 0.9973509933774835
+ },
+ "resnet18_scratch|chb20": {
+  "auroc": 0.7833866935660716,
+  "auprc": 0.6127510380808375,
+  "sensitivity": 0.1986754966887417,
+  "specificity": 0.990728476821192
+ },
+ "linear_probe|chb20": {
+  "auroc": 0.6039822814788826,
+  "auprc": 0.2692723818090925,
+  "sensitivity": 0.2980132450331126,
+  "specificity": 0.8596026490066225
+ }
+}

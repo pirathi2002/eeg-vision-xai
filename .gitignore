@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+checkpoints/
+features_cache/
+data/
+*.npy
+*.edf
+.venv/
